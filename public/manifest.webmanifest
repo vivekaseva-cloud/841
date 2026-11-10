@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "NETI BHARATHAM – నేటి భారతం | Telugu News Portal",
+  "short_name": "నేటి భారతం",
+  "description": "Official Telugu Digital News Portal (netibhaaratham.com) - Breaking News, Telangana, Andhra Pradesh, District & Mandal News.",
+  "theme_color": "#991B1B",
+  "background_color": "#FBF9F5",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
